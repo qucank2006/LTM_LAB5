@@ -1,0 +1,9 @@
+.root { -fx-base: #202735; -fx-background: #141a24; -fx-control-inner-background: #202735; -fx-text-fill: #e7edf7; -fx-font-family: 'Segoe UI'; -fx-font-size: 13px; }
+.label { -fx-text-fill: #dce5f3; }
+.button { -fx-background-color: #355c91; -fx-text-fill: white; -fx-padding: 9 17; -fx-background-radius: 6; -fx-cursor: hand; }
+.button:hover { -fx-background-color: #4674b1; }
+.text-field, .text-area { -fx-background-radius: 6; -fx-text-fill: #edf2fa; -fx-prompt-text-fill: #8e9bb0; }
+.table-view { -fx-background-color: #202735; -fx-border-color: #354052; }
+.table-row-cell:selected { -fx-background-color: #355c91; }
+.split-pane { -fx-background-color: transparent; -fx-padding: 0; }
+.split-pane-divider { -fx-background-color: #141a24; -fx-padding: 0 7; }
